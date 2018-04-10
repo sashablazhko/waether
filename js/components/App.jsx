@@ -1,8 +1,10 @@
 import React from 'react';
 
+import SearchBar from '../containers/SearchBar';
+
 const App = () => (
   <div>
-    App component!
+    <SearchBar />
   </div>
 );
 
